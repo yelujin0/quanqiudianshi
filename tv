@@ -1,24 +1,24 @@
-#EXTINF:-1,广东体育
+#EXTINF:-1 广东体育
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
-#EXTINF:-1,翡翠台
+#EXTINF:-1 翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1,翡翠台2
+#EXTINF:-1 翡翠台2
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1,tvb星河
+#EXTINF:-1 tvb星河
 http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
-#EXTINF:-1,财经资讯台
+#EXTINF:-1 财经资讯台
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-#EXTINF:-1,珠江台
+#EXTINF:-1 珠江台
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
-#EXTINF:-1,纬来体育
+#EXTINF:-1 纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1,凤凰中文
+#EXTINF:-1 凤凰中文
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1,东森新闻
+#EXTINF:-1 东森新闻
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1,tvbs新闻
+#EXTINF:-1 tvbs新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1,中天新闻
+#EXTINF:-1 中天新闻
 http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
