@@ -2,7 +2,7 @@
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #EXTINF:-1 翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 翡翠台2
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvb星河
 http://198.16.100.90:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
